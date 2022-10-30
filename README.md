@@ -4,7 +4,7 @@
 * rails:7.0.4
 * sqlite3:1.4
 ## 起動方法
-1. ターミナルでServerAディレクトリへ移動してください  
+1. git clone でローカルにクローンした後、ターミナルでServer_Aディレクトリへ移動してください  
 2. Docker-compose build　コマンドでコンテナを作成してください  
 3. Docker-compose up -d コマンドでコンテナをdaemonモードで起動してください  
 4. Docker-compose exec web bash コマンドでコンテナ内に入ってください    
